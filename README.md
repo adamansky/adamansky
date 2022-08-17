@@ -12,7 +12,7 @@ I worked for many years as team lead in several enterprise Java projects in fint
 * [iowow](https://github.com/Softmotions/iowow)      C11 utility library and high performant persistent key/value storage engine.
 * [iwstart](https://github.com/Softmotions/iwstart)  Boilerplate generator for C projects based on iowow, iwnet, ejdb2 libraries.
 
-📫 Most time I'm working as freelancer so if you want consulting work or hire me you can reach me `@antosha_one` on Telegram.
+📫 Most time I'm working as freelancer so if you want consulting work or hire me just reach me `@antosha_one` on Telegram.
 
 <!--
 **adamansky/adamansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
