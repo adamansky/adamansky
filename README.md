@@ -10,6 +10,7 @@ I worked for many years as team lead in several enterprise Java projects in fint
 * [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
 * [iwnet](https://github.com/Softmotions/iwnet)      Pure C Asynchronous HTTP/IO library with websockets, SSL and routing.
 * [iowow](https://github.com/Softmotions/iowow)      C11 utility library and high performant persistent key/value storage engine.
+* [acdb](https://github.com/Softmotions/acdb)        Clang's C/C++ compile_commands.json generator for Arduino projects 
 * [iwstart](https://github.com/Softmotions/iwstart)  Boilerplate generator for C projects based on iowow, iwnet, ejdb2 libraries.
 
 📫 Most time I'm working as freelancer so if you want consulting work or hire me just reach me `@antosha_one` on Telegram.
