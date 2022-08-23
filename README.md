@@ -1,4 +1,4 @@
-### Hi there I'm Anton 👋
+### Hi there I'm Anton!
 
 I love simplicity and C. 
 
