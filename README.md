@@ -1,6 +1,6 @@
 ### I'm Anton!
 
-I love simplicity and C. 
+I love `C`implicity =)
 
 Worked for many years as team lead in several enterprise Java projects in fintech industry.
 
