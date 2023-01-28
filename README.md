@@ -21,7 +21,7 @@ Worked for many years as team lead in several enterprise Java projects in fintec
 * [vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) Dark color theme for Vim/Neovim
 
 ## 📫 
-Most time I'm working as freelancer so if you want consulting work or hire just reach me `@antosha_one` on Telegram.
+I'm working as freelancer so if you want consulting work or hire just reach me `@antosha_one` on Telegram.
 
 <!--
 **adamansky/adamansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
