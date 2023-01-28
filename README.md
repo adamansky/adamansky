@@ -11,14 +11,14 @@ Worked for many years as team lead in several enterprise Java projects in fintec
 #### Here are some of my open source projects
 
 * [wirow](https://github.com/wirow-io/wirow-server)  A full featured self-hosted video web-conferencing platform. 
-* [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
 * [iwnet](https://github.com/Softmotions/iwnet)      Pure C Asynchronous HTTP/IO library with websockets, SSL and routing.
-* [iowow](https://github.com/Softmotions/iowow)      C11 utility library and high performant persistent key/value storage engine.
 * [aws4](https://github.com/Softmotions/aws4)        AWS API HTTP client library in pure C
+* [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
+* [iowow](https://github.com/Softmotions/iowow)      C11 utility library and high performant persistent key/value storage engine.
 * [acdb](https://github.com/Softmotions/acdb)        Clang's C/C++ compile_commands.json generator for Arduino projects 
 * [iwstart](https://github.com/Softmotions/iwstart)  Boilerplate generator for C projects based on iowow, iwnet, ejdb2 libraries.
 * [coc-class-css](https://github.com/Softmotions/coc-class-css) Vim/Neovim CoC CSS class completion plugin
-* [vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) Dark Frost color theme for Vim/Neovim
+* [vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) Dark color theme for Vim/Neovim
 
 ## 📫 
 Most time I'm working as freelancer so if you want consulting work or hire just reach me `@antosha_one` on Telegram.
