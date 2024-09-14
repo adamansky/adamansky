@@ -2,7 +2,7 @@
 
 I love `C`implicity =)
 
-Worked for many years as team lead in several enterprise Java projects in fintech industry.
+Worked for years as team lead in many projects in fintech, crypto and database engines development.
 
 <!--
 ![github stats](https://github-readme-stats.vercel.app/api?username=adamansky&custom_title=Github&hide=stars&hide_rank=true&include_all_commits=true&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
