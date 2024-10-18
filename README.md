@@ -10,7 +10,7 @@ Led teams in fintech and crypto projects, and spearheaded some database R&D at a
 
 #### Here are some of my open source projects
 
-* [wirow](https://github.com/wirow-io/wirow-server)  A full featured self-hosted video web-conferencing platform. 
+* [wirow](https://github.com/wirow-io/wirow-server)  A full featured self-hosted video web-conferencing platform (now suspended). 
 * [iwnet](https://github.com/Softmotions/iwnet)      Pure C Asynchronous HTTP/IO library with websockets, SSL and routing.
 * [aws4](https://github.com/Softmotions/aws4)        AWS API HTTP client library in pure C
 * [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
