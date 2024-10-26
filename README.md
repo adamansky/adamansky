@@ -10,15 +10,15 @@ Led teams in fintech and crypto projects, and spearheaded some database R&D at a
 
 #### Here are some of my open source projects
 
-* [wirow](https://github.com/wirow-io/wirow-server)  A full featured self-hosted video web-conferencing platform (now suspended). 
-* [iwnet](https://github.com/Softmotions/iwnet)      Pure C Asynchronous HTTP/IO library with websockets, SSL and routing.
-* [aws4](https://github.com/Softmotions/aws4)        AWS API HTTP client library in pure C
+* **[iwnet](https://github.com/Softmotions/iwnet)      Pure C Asynchronous HTTP/IO library with websockets, SSL, HTTP proxy, and routing.**
+* [aws4](https://github.com/Softmotions/aws4)        AWS API HTTP client library in C
 * [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
 * [iowow](https://github.com/Softmotions/iowow)      C11 utility library and high performant persistent key/value storage engine.
 * [acdb](https://github.com/Softmotions/acdb)        Clang's C/C++ compile_commands.json generator for Arduino projects 
 * [iwstart](https://github.com/Softmotions/iwstart)  Boilerplate generator for C projects based on iowow, iwnet, ejdb2 libraries.
 * [coc-class-css](https://github.com/Softmotions/coc-class-css) Vim/Neovim CoC CSS class completion plugin
 * [vim-dark-frost-theme](https://github.com/Softmotions/vim-dark-frost-theme) Dark color theme for Vim/Neovim
+* [wirow](https://github.com/wirow-io/wirow-server)  A full featured self-hosted video web-conferencing platform (now suspended). 
 
 <!--
 **adamansky/adamansky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
