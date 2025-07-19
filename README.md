@@ -10,7 +10,8 @@ Led teams in fintech and crypto projects, and spearheaded some database R&D at a
 
 #### Here are some of my open source projects
 
-* **[iwnet](https://github.com/Softmotions/iwnet)      Pure C Asynchronous HTTP/IO library with websockets, SSL, HTTP proxy, and routing.**
+* **[Autark](https://github.com/Softmotions/autark)  Autark – A self-contained build system for C/C++**
+* **[iwnet](https://github.com/Softmotions/iwnet)    Pure C Asynchronous HTTP/IO library with websockets, SSL, HTTP proxy, and routing.**
 * [aws4](https://github.com/Softmotions/aws4)        AWS API HTTP client library in C
 * [ejdb2](https://github.com/Softmotions/ejdb)       Embeddable JSON Database engine C library.
 * [iowow](https://github.com/Softmotions/iowow)      C11 utility library and high performant persistent key/value storage engine.
