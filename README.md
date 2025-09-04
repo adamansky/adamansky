@@ -1,6 +1,6 @@
 ### I'm Anton!
 
-I love `C`implicity and algo trading =)
+I love `С`implicity and algo trading =)
 
 Led teams in fintech and crypto projects, and spearheaded some database R&D at a leading tech enterprise.
 
